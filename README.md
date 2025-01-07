@@ -131,6 +131,10 @@ The related works and background techniques about OpenAI o1, including LLM reaso
   - Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
   - The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
 
+- **o1-Coder: an o1 Replication for Coding** [[Paper](https://arxiv.org/abs/2412.00154)] (2024)
+  - Yuxiang Zhang, Shangxi Wu, Yuqi Yang, Jiangming Shu, Jinlin Xiao, Chao Kong, Jitao Sang
+  - Beijing Jiaotong University
+
 
 ## Open-source Projects
 
