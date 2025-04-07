@@ -47,7 +47,7 @@ The related works and background techniques about OpenAI o1, including LLM reaso
 - **Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models** [[Paper](http://arxiv.org/abs/2309.10444)] (AAAI/EAAI 2025)
   - Qiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Tim Pistotti, Alice Huang, Paul Denny, Michael Witbrock, Jiamou Liu
   - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - University of Auckland, Xtracta, Sun Yat-Sen University, University of Sydney
-- **Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation** [[Paper](http://arxiv.org/abs/2309.10444)] (AAAI/EAAI 2025)
+- **Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation** [[Paper](http://arxiv.org/abs/2309.10444)] (NeSy 2022)
   - Qiming Bao, Alex Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu
   - Strong AI Lab, NAOInstitute, Waipapa Taumata Rau - University of Auckland, Xtracta, University of Cambridge
 - **ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning** [[Paper](https://openreview.net/forum?id=AOqGF7Po7Z)] (NucLeaR@AAAI 2024)
